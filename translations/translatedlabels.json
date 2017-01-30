@@ -350,7 +350,7 @@
       "clues.config.json": 50,
       "colourful.config.json": 33,
       "combat.config.json": 179,
-      "converse.config.json": 761,
+      "converse.config.json": 785,
       "crewmember.config.json": 39,
       "cultist.config.json": 31,
       "deadbeat.config.json": 23,
@@ -10450,7 +10450,7 @@
           "filingcabinet.object.json": 8
         },
         "fireextinguisher": {
-          "fireextinguisher.object.json": 7
+          "fireextinguisher.object.json": 8
         },
         "floop": {
           "floop.object.json": 0
@@ -10511,7 +10511,7 @@
           "outpostbutton.object.json": 8
         },
         "outpostcabinet": {
-          "outpostcabinet.object.json": 0
+          "outpostcabinet.object.json": 7
         },
         "outpostcargocrate": {
           "outpostcargocrate.object.json": 2
@@ -10628,11 +10628,11 @@
         },
         "shared_.object.json": 2,
         "shared_bathroomtrash": {
-          "shared_bathroomtrash.json": 1
+          "shared_bathroomtrash.json": 6
         },
         "shared_closed.object.json": 1,
         "shared_outpost": {
-          "shared_console.object.json": 0
+          "shared_console.object.json": 1
         },
         "shared_outpostairlock": {
           "shared_outpostairlock.json": 0
@@ -11057,7 +11057,7 @@
         "shared_sink.object.json": 1
       },
       "shared_slidingdoor": {
-        "shared_slidingdoor.object.json": 2
+        "shared_slidingdoor.object.json": 4
       },
       "shared_smoke": {
         "shared_.object.json": 1
